@@ -5,7 +5,8 @@
   "main": "src/index.html",
   "scripts": {
     "pretests": "npm run htmlhint && npm run eslint && npm run stylelint",
-    "test": "jest --env=jsdom --coverage"
+    "test": "jest --env=jsdom --coverage",
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
   "homepage": "https://github.com/KaterinT/drinkWater#readme",
   "dependencies": {
     "coverage": "^0.4.1",
+    "gh-pages": "^3.2.3",
     "node-jest": "^0.2.0"
   },
   "devDependencies": {
