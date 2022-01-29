@@ -33,7 +33,7 @@ After having the Wireframe, the web design is made based on styles, color palett
 
 ## 2.2 Result of the project: 📱
 
-Below is attached the [link to deploy the project.](https://rjrch123.github.io/I-drink-water/)
+Below is attached the [link to deploy the project.](https://katerint.github.io/drinkWater/)
 
 ***
 
